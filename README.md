@@ -1,2 +1,2 @@
 # learning
-code for some learning staff &amp; some algorithms
+code for some learning staff &amp;  algorithms
