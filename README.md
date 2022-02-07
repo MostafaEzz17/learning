@@ -1,2 +1,2 @@
 # learning
-learning data structures &amp; algorithms
+Implementing Searching Algorithms
