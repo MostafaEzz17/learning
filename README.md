@@ -1,2 +1,2 @@
 # learning
-code for some learning data structures &amp;  algorithms
+learning data structures &amp; algorithms
